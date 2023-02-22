@@ -131,4 +131,4 @@ g++ -std=c++11 -o lua_program lua_program.cpp -llua -ldl
 Step 6: Run the C++ application and the output is as following:
 
 
-![output of the Exercise 2](tasks_image/Exercise2_Output.jpeg)
+![output of the Exercise 2](tasks_image/Exercise2_Output.png)
